@@ -88,7 +88,7 @@ Yummy/
 1. Download or clone the repository
 
    ```bash
-   git clone https://ved-prajapati-24.github.io/Yummy-Food-Blog/
+git clone https://github.com/Ved-prajapati-24/Yummy-Food-Blog.git
    ```
 
 2. Open the project folder
